@@ -8,6 +8,11 @@ body{
   letter-spacing: 2px;
   color: #222;
 }
+.container{
+  width: 1260px;
+  padding: 0px 30px;
+  margin: 0px auto;
+}
 
 .site-hero-container{
   width: 492px;
