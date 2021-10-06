@@ -26,7 +26,6 @@ body{
 }
 .header {
   width: 600px;
-  background-color: red;
   background-image: url(../img/bg_natural.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -87,7 +86,7 @@ body{
 }
 
 .site-hero-heading {
-  font-style: 24px;
+  font-size: 24px;
   line-height: 29px;
   margin-top: 54px;
   margin-bottom: 24px;
@@ -144,7 +143,7 @@ body{
 
 .site-hero-time-text{
   font-family: "Roboto Condensed", "Arial", sans-serif;
-  font-style: 14px;
+  font-size: 14px;
   line-height: 17px;
   color: #888;
   margin-right: 25px;
@@ -162,7 +161,7 @@ body{
 }
 .siite-hero-view-text {
   font-family: "Roboto Condensed", "Arial", sans-serif;
-  font-style: 14px;
+  font-size: 14px;
   line-height: 17px;
   color: #666;
   margin-right: 25px;
