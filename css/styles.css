@@ -8,16 +8,9 @@ body{
   letter-spacing: 2px;
   color: #222;
 }
-.container{
-  width: 1260px;
-  padding: 0px 30px;
-  margin: 0px auto;
-}
 
 .site-hero-container{
-  width: 492px;
-  margin-left: auto;
-  margin-right: auto;
+  padding: 54px;
 }
 
 
@@ -25,7 +18,7 @@ body{
   display: flex;
 }
 .header {
-  width: 600px;
+  width: 50%;
   background-image: url(../img/bg_natural.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -81,14 +74,13 @@ body{
 /* HERO */
 
 .site-hero {
-  width: 600px;
+  width: 50%;
   background-color: #fefefe;
 }
 
 .site-hero-heading {
   font-size: 24px;
   line-height: 29px;
-  margin-top: 54px;
   margin-bottom: 24px;
 }
 .site-hero-items {
